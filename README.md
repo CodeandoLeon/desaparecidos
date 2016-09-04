@@ -43,12 +43,18 @@ Si cuentas con alguna de las siguientes habilidades y te interesa este proyecto 
 
 Se minarán sitios con alertas de desapariciones:
 
-- http://www.ssp.gob.mx/extraviadosWeb/portals/extraviados.portal (@rodrigobarradas, @abcsds)
+- http://www.ssp.gob.mx/extraviadosWeb/portals/extraviados.portal (Página caída sep 3 2016) (@rodrigobarradas, @abcsds)
 
-- http://pgjesin.gob.mx:8090/desaparecidos/ (@gozhack)
+- http://pgjesin.gob.mx:8090/desaparecidos/ (Sinaloa) (@gozhack)
 
-- http://www.alertaamber.gob.mx/ (@hamurabi10)
+- http://www.alertaamber.gob.mx/ (@hamurabi10) <---- Data tiende a unificarse.
 
 - http://portal.pgjguanajuato.gob.mx/webPGJEG/servicios/desaparecidos/desaparecidos.aspx (@tejonbiker)
+
+- http://www.guanajuato.gob.mx/pgjeg/personas.php (Pagina caída Ssep 3 2016)
+
+- [Motor de registro](http://www.cns.gob.mx/wpsipe/motor)
+
+- [Base de datos nacional] (http://www.cns.gob.mx/extraviadosWeb/portals/extraviados.portal?_nfpb=true&_pageLabel=contenido&nodeId=/BEA%20Repository/Extraviados/Articulos%20Interes/Quienes%20Somos/Quienes#wlp_contenido)
 
 Se unificará la base de datos en una sola...
